@@ -41,13 +41,13 @@ hi SpellBad     guisp=Firebrick2 gui=undercurl
 hi SpellCap     guisp=Blue gui=undercurl
 hi SpellLocal   guisp=DarkCyan gui=undercurl
 hi SpellRare    guisp=Magenta gui=undercurl
-hi StatusLine   gui=NONE guifg=White guibg=DarkSlateGray
-hi StatusLineNC gui=NONE guifg=SlateGray guibg=Gray90
+hi StatusLine   gui=NONE guifg=White
+hi StatusLineNC gui=NONE guifg=SlateGray
 hi TabLine      gui=underline guibg=LightGrey
 hi TabLineFill  gui=reverse
 hi TabLineSel   gui=bold
 hi Title        gui=bold guifg=DeepSkyBlue3
-hi VertSplit    gui=NONE guifg=DarkSlateGray guibg=Gray90
+hi VertSplit    gui=NONE guifg=DarkSlateGray guibg=Gray10
 if has("gui_macvim")
   hi Visual       guibg=MacSelectedTextBackgroundColor
 else
