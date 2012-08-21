@@ -62,7 +62,7 @@ hi Identifier   gui=NONE guifg=Aquamarine4 guibg=NONE
 hi Ignore       gui=NONE guifg=bg guibg=NONE
 hi PreProc      gui=NONE guifg=DodgerBlue3 guibg=NONE
 hi Special      gui=NONE guifg=BlueViolet guibg=NONE
-hi String       gui=NONE guifg=SkyBlue4 guibg=NONE
+hi String       gui=NONE guifg=SkyBlue3 guibg=NONE
 hi Underlined   gui=underline guifg=SteelBlue1
 
 
