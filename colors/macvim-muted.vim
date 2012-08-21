@@ -70,7 +70,7 @@ hi Underlined   gui=underline guifg=SteelBlue1
 
 if &background == "dark"
   hi Boolean      gui=NONE guifg=DeepPink4 guibg=NONE
-  hi Comment      gui=italic guifg=CadetBlue4
+  hi Comment      gui=italic guifg=Grey40
   hi Constant     gui=NONE guifg=Goldenrod3 guibg=NONE
   hi Cursor       guibg=LightGoldenrod guifg=bg
   hi CursorColumn guibg=Gray20
@@ -81,7 +81,7 @@ if &background == "dark"
   hi DiffText     gui=NONE guifg=White guibg=SteelBlue
   hi LineNr       guifg=#552A7B guibg=Grey5
   hi MatchParen   guifg=White guibg=Magenta
-  hi Normal       guifg=Grey50 guibg=Grey10
+  hi Normal       guifg=CadetBlue guibg=Grey10
   hi Search       guibg=Blue4 guifg=NONE
   hi Statement    gui=bold guifg=Purple1 guibg=NONE
   hi Todo         gui=NONE guifg=Green4 guibg=DeepSkyBlue1
